@@ -59,7 +59,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    text-align: justify;
+    text-align:left;
 }
 
 .apresentacao__conteudo__titulo{
