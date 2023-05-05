@@ -111,7 +111,7 @@ body {
 .apresentacao__imagem{
     max-width: 475px;
     max-height: 475px;
-    width: auto;
+    width: 50%;
     height: auto;
     border-radius: 16px;   
 }
@@ -148,4 +148,8 @@ body {
         width: auto;
     }
 
+    .apresentacao__imagem{
+        width: auto;
+        padding: 5%;
+    }
 }
