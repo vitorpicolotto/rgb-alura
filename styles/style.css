@@ -148,10 +148,4 @@ body {
         width: auto;
     }
 
-    .apresentacao__imagem{
-    width: auto;
-    height: auto;
-    border-radius: 16px;
-    padding: 0 5% 5% 0;
-    }
 }
